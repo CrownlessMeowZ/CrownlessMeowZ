@@ -1,0 +1,10 @@
+fonts/
+scripts/
+assets/_font_test.png
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+node_modules/
